@@ -6,6 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": ["yarn", "npm", "yarn vs npm", "包管理"],
   "author": "humorHan",
   "license": "ISC",
   "dependencies": {
